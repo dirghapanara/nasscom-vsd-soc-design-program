@@ -54,9 +54,33 @@
 
 ### Screen Captures relating to basic commands
 
-  ![basic cmds](https://github.com/user-attachments/assets/281bd6d1-0f88-462f-b4fa-ee9fa15619e3)
-  ![prep](https://github.com/user-attachments/assets/c99f74e6-5ea5-452b-b6df-fc8b4c1ddd46)
-  ![run_synthesis](https://github.com/user-attachments/assets/7e0cf6dc-e63d-44bf-aea0-3106369c70bf)
+  ![image](https://github.com/user-attachments/assets/25b77b91-b903-4a1a-bee4-283fe0d8bed9)
+  ![image](https://github.com/user-attachments/assets/ae9f33d0-6e95-49b3-894a-f3f1714468d2)
+  ![image](https://github.com/user-attachments/assets/d8395878-b3c1-4d72-ae47-cc97bbc1e1e6)
+  ![image](https://github.com/user-attachments/assets/af8e0f01-4d87-40c0-bd63-ec1a62ff6709)
+  ![image](https://github.com/user-attachments/assets/3b573dcd-2c67-4a49-aa75-1b0b210342fb)
+  ![image](https://github.com/user-attachments/assets/9df7995e-0ea9-4262-939c-5851ded03c14)
+
+#### Calculate Flop Ratio
+  ![image](https://github.com/user-attachments/assets/9bd18fbf-0fdd-463a-aad4-69e9ddfba75b)
+
+  - Number of cells             :14876
+  - sky130_fd_sc_hd__dfxtp_2    :1613
+
+  ```math
+  Flop\ Ratio = \frac{Number\ of\ D\ Flip\ Flops}{Total\ Number\ of\ Cells}
+  ```
+  ```math
+  Percentage\ of\ DFF's = Flop\ Ratio * 100
+  ```
+  - Flop Ratio = 0.1084
+  - % of DEF's = 10.84
+
+
+
+
+
+
 
 
 
