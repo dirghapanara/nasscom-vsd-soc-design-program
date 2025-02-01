@@ -31,6 +31,35 @@
 
 </details>
 
+### Basic commands
+```
+  # Change directory to openlane flow directory
+  cd Desktop/work/tools/openlane_working_dir/openlane
+
+  # Run docker
+  docker
+
+  # Invoke the OpenLANE flow in the Interactive mode
+  ./flow.tcl -interactive
+
+  # Set required openlane package
+  package require openlane 0.9
+
+  # Create some necessary files and directories for running a the design, ie. 'picorv32a'
+  prep -design picorv32a
+
+  # Run synthesis
+  run_synthesis
+```
+
+### Screen Captures relating to basic commands
+
+  ![basic cmds](https://github.com/user-attachments/assets/281bd6d1-0f88-462f-b4fa-ee9fa15619e3)
+  ![prep](https://github.com/user-attachments/assets/c99f74e6-5ea5-452b-b6df-fc8b4c1ddd46)
+  ![run_synthesis](https://github.com/user-attachments/assets/7e0cf6dc-e63d-44bf-aea0-3106369c70bf)
+
+
+
 
 ## Section 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK (14/03/2024 - 15/03/2024)
 
