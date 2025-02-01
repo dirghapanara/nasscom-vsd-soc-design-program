@@ -1,5 +1,5 @@
 # nasscom-vsd-soc-design-program
-> 2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organised by VSD in collaboration with NASSCOM
+> 2 Weeks digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organised by VSD in collaboration with NASSCOM
 
 ### Introduction: Inception of open-source EDA, OpenLANE and Sky130 PDK
 <details open>
