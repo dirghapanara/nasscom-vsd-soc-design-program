@@ -76,6 +76,10 @@
   - Flop Ratio = 0.1084
   - % of DEF's = 10.84
 
+#### Synthesis Result
+  ![image](https://github.com/user-attachments/assets/90e1b9ea-dbae-4053-b480-b9fc6257d1eb)
+  ![image](https://github.com/user-attachments/assets/262c05aa-ef41-40fb-88f4-324395526432)
+
 
 
 
